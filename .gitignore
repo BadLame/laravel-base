@@ -18,3 +18,6 @@ yarn-error.log
 /public/css
 /public/js
 /public/mix-manifest.json
+
+# generating by laravel passport
+.rnd
